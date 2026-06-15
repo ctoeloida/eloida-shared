@@ -1,6 +1,6 @@
 {
   "name": "@eloida/shared",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared catalogs for Eloida voice agent platform",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
